@@ -1,0 +1,5 @@
+numpy==2.0.2
+joblib==1.4.2
+pandas==2.2.2
+Flask==2.3.3
+gunicorn==22.0.0
